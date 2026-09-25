@@ -1,0 +1,15 @@
+Lead Machine Learning & AI Engineer
+Company: NeuralNext AI
+Location: Hybrid
+
+REQUIREMENTS:
+• 4+ years of production experience in Machine Learning and Deep Learning systems.
+• Advanced proficiency in Python, PyTorch, or TensorFlow.
+• Hands-on expertise with NLP, Transformers, Hugging Face, and Large Language Models (LLMs).
+• Solid understanding of MLOps pipelines using Docker, Kubernetes, and AWS or GCP.
+• Proven track record of strong leadership, problem solving, and communication.
+
+DESIRABLE / BONUS SKILLS:
+• Experience with LangChain, GenAI, and Prompt Engineering.
+• Familiarity with PySpark or Apache Spark big data processing.
+• Contributions to open-source ML libraries.

@@ -1,0 +1,24 @@
+Alex Chen
+San Francisco, CA | alex.chen@example.com | (415) 555-0199
+Senior Full Stack Engineer with 6+ years of experience architecting high-scale web platforms.
+
+SUMMARY
+Versatile engineer specializing in React, Node.js, TypeScript, and AWS cloud architectures. Strong background in microservices, PostgreSQL databases, Docker containerization, and Agile team leadership.
+
+PROFESSIONAL EXPERIENCE
+Senior Software Engineer | TechScale Systems (2021 – Present)
+• Architected core customer portal using React, Next.js, and TypeScript, serving 500K+ monthly active users.
+• Developed REST and GraphQL backend services in Node.js and Express with PostgreSQL and Redis caching.
+• Built automated CI/CD pipelines using GitHub Actions, Docker, and Kubernetes on AWS (EKS, S3, RDS).
+• Mentored 4 junior engineers in clean code principles, test-driven development, and Agile Scrum workflows.
+• Demonstrated strong problem solving and cross-functional leadership in reducing production latency by 42%.
+
+Software Engineer | Innovatech Apps (2018 – 2021)
+• Built responsive front-end interfaces using JavaScript (ES6+), HTML5, CSS3, and Tailwind CSS.
+• Maintained Python and Django microservices integrated with MySQL and MongoDB databases.
+• Implemented automated testing suites with Jest and Postman, increasing coverage to 88%.
+• Collaborated closely with product designers using Figma and Jira for sprint planning.
+
+EDUCATION & SKILLS
+B.S. in Computer Science | University of California, Berkeley (2018)
+Skills: JavaScript, TypeScript, Python, React, Next.js, Node.js, Express, HTML, CSS, Tailwind, SQL, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, AWS, Git, CI/CD, Linux, Jira, Figma, Agile, Communication, Problem Solving, Leadership.

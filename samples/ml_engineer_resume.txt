@@ -1,0 +1,21 @@
+Priya Sharma
+Data Scientist | priya.sharma@domain.io | +1 (650) 442-8821 | San Jose, CA
+
+PROFESSIONAL SUMMARY
+Data Scientist with 3+ years of experience in predictive modeling, exploratory data analysis, and statistical machine learning. Proficient in Python, Pandas, NumPy, Scikit-Learn, and SQL.
+
+WORK EXPERIENCE
+Data Scientist | DataVibe Analytics (2022 – Present)
+• Built supervised machine learning models with Python, Scikit-Learn, and XGBoost for churn prediction.
+• Performed extensive data analysis using Pandas, NumPy, and SQL queries on Snowflake and BigQuery.
+• Created executive KPI dashboards in Tableau and Power BI to monitor business metrics.
+• Collaborated in an Agile Scrum team with bi-weekly sprint deliverables.
+
+Junior Data Analyst | RetailInsights (2020 – 2022)
+• Extracted and cleaned multi-gigabyte datasets from MySQL using Python scripts and Excel macros.
+• Visualized sales trends using Matplotlib, Seaborn, and Tableau for regional managers.
+• Documented analytical findings and presented insights with strong communication skills.
+
+EDUCATION & CORE COMPETENCIES
+M.S. in Statistics | Stanford University
+Skills: Python, SQL, Pandas, NumPy, Scikit-Learn, Machine Learning, Data Analysis, Tableau, Power BI, Excel, MySQL, Snowflake, Agile, Teamwork.
